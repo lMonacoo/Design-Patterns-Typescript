@@ -11,13 +11,20 @@
     "url": "git+https://github.com/lMonacoo/Design-Patterns-Typescript.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "lmonacoo",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/lMonacoo/Design-Patterns-Typescript/issues"
   },
   "homepage": "https://github.com/lMonacoo/Design-Patterns-Typescript#readme",
   "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.10.0",
+    "@typescript-eslint/parser": "^5.10.0",
+    "eslint": "^8.7.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "prettier": "^2.5.1",
+    "ts-node": "^10.4.0",
     "typescript": "^4.5.5"
   }
 }
